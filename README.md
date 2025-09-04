@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darumous1301
-- 👀 I’m interested in Digital Design/ Cyber Security
+- 👀 I’m interested in Computer Hardware and Cybersecurity
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
