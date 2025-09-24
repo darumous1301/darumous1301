@@ -1,6 +1,6 @@
 POINTERS TO REVIEW FOR QUIZ 1 (CHAPTER 1 & 2)
 
-🔹 Terms & Basics
+🔹 ## Terms & Basics ##
 Database – organized collection of related data.
 Data – stored representation of objects/events. (Structured = numbers, text; Unstructured = images, videos).
 Information – processed data for decision-making.
