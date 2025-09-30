@@ -2,7 +2,6 @@
 
 - 🔭 Studying [Computer Science](https://batstateu.edu.ph/wp-content/uploads/2020/10/Bachelor-of-Science-in-Computer-Science-BSCS.pdf) at Batangas State University - TNEU, Philippines<br/>
 - 💬 #TrackLearning - [Road_Map](https://roadmap.sh/java)<br/>
-- 💻 Programming: C++, Java, Python<br/>
 - 🌐 Web Development, Prompt Engineering<br/>
 
 ## 💻 Tech Stack:
