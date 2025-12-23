@@ -1,7 +1,6 @@
 # 開発者_;)
 
 - 🔭 Studying [Computer Science](https://batstateu.edu.ph/wp-content/uploads/2020/10/Bachelor-of-Science-in-Computer-Science-BSCS.pdf) at Batangas State University - TNEU, Philippines<br/>
-- 💬 #TrackLearning - [Road_Map](https://roadmap.sh/java)<br/>
 - 🌐 Interest: Web Development, Prompt Engineering, Com-Networking, Programming <br/>
 
 ## 💻 Tech Stack:
